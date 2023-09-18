@@ -2,6 +2,6 @@
 #include<string.h>
 
 int main(){
-    printf(%s , "Champak lal chaudary");
+    printf(%s , "Mothi lal madhuri");
     return 0;
 }
